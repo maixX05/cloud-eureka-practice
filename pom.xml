@@ -12,6 +12,11 @@
         <module>cloud-eureka-client</module>
         <module>cloud-config-server</module>
         <module>cloud-eureka-server-multizone</module>
+        <module>cloud-eureka-client-multizone</module>
+        <module>cloud-zuul-gateway</module>
+        <module>cloud-eureka-server-remote-region</module>
+        <module>cloud-eureka-client-remote-region</module>
+        <module>cloud-zuul-gateway-remote-region</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -50,6 +55,10 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
     </dependencies>
 

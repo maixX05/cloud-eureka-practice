@@ -4,6 +4,12 @@ spring:
   jackson:
     serialization:
       FAIL_ON_EMPTY_BEANS: false
+#spring:
+#  profiles:
+#    active: standalone
+#  jackson:
+#    serialization:
+#      FAIL_ON_EMPTY_BEANS: false
 #eureka:
 #  server:
 #    use-read-only-response-cache: false
@@ -13,6 +19,11 @@ management:
     web:
       exposure:
         include: '*'
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
 
 eureka:
   server:

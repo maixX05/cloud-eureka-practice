@@ -1,4 +1,6 @@
 文章首发：[Spring Cloud Neflix之Eureka入门和实战](http://www.maishuren.top/posts/springcloud/2020/07/202007010910.html)
+文章首发：[备用链接](https://www.maishuren.top/archives/springcloudneflix%E4%B9%8Beureka%E5%85%A5%E9%97%A8%E5%92%8C%E5%AE%9E%E6%88%98)
+
 # spring cloud组件列表
 
 | 组件名称  | 所属醒目               | 组件分类           |

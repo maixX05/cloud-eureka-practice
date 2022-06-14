@@ -1,4 +1,4 @@
-文章首发：[Spring Cloud Neflix之Eureka入门和实战](https://www.maishuren.top/archives/springcloudneflix%E4%B9%8Beureka%E5%85%A5%E9%97%A8%E5%92%8C%E5%AE%9E%E6%88%98)
+文章首发：[Spring Cloud Neflix之Eureka入门和实战](https://www.maishuren.top/archives/springcloudneflix-zhi-eureka-ru-men-he-shi-zha)
 
 # spring cloud组件列表
 
